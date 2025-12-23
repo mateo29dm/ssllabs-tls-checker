@@ -37,7 +37,7 @@ Fue desarrollado como parte de una prueba técnica y se enfoca en:
 Clona el repositorio:
 
 ```bash
-git clone https://github.com/<tu-usuario>/ssllabs-tls-checker.git
+git clone https://github.com/mateo29dm/ssllabs-tls-checker.git
 cd ssllabs-tls-checker
 ```
 Ejecuta el programa indicando el dominio a analizar:
